@@ -1,0 +1,24 @@
+
+body{
+    background-image: url(../images/concrete-texture.png);
+}
+
+
+/* Using google fonts as a self-refresher */
+
+.serif {
+    font-family: 'Noto Serif', serif;
+}
+/* Set paragraph font style */
+
+.maintext {
+    color: slategrey;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.porttext {
+    position:relative;
+    bottom: 68px;
+}
+
